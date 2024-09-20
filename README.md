@@ -13,7 +13,7 @@ GBC COMP-1238 Course - Intro to Data Management
 * ( = opening brakcet
 * ) = closing bracket
 * _ = underscore
-* + = plus
+* \+ = plus
 
 [💻](https://pages.github.com/)
 [📖](https://www.georgebrown.ca/)
