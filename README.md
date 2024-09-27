@@ -26,3 +26,15 @@ GBC COMP-1238 Course - Intro to Data Management
 🐦
 ⛵️
 🦖
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Cmnd-C (copy)
+- Cmnd-V (paste)
+- Cmnd-Z (undo)
+- Cmnd-A (select all)
+
+Shortcuts I would like to start using more often: 
+
+- Cmnd-T (open tab)
+- Cmnd-W (close tab)
