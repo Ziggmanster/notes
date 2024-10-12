@@ -43,4 +43,4 @@ Shortcuts I would like to start using more often:
 
 [CLI commands][def]
 
-[def]: https://github.com/Ziggmanster/notes/blob/main/docs/cli.md
+[def]: (https://github.com/Ziggmanster/notes/blob/main/docs/cli.md)
