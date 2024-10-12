@@ -38,3 +38,7 @@ Shortcuts I would like to start using more often:
 
 - Cmnd-T (open tab)
 - Cmnd-W (close tab)
+
+## CLI commands
+
+[CLI commands](docs/cli.md)
