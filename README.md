@@ -41,4 +41,4 @@ Shortcuts I would like to start using more often:
 
 ## CLI commands
 
-[CLI commands](docs/cli.md)
+[CLI commands](docs/cli.md.)
