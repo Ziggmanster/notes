@@ -1,0 +1,16 @@
+---
+- name: Scottie Barnes # on the JSON file, this would be a string
+- sport: Basketball
+  team:
+    name: Raptors
+    city: Toronto
+- name: Shohei Ohtani
+- sport: Baseball
+	team:
+  	name: Dodgers
+    city: Los Angeles
+- name: Igor Shesterkin
+- sport: Hockey
+	team:
+  	name: Rangers
+    city: New York
